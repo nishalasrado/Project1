@@ -362,18 +362,14 @@
                         <div class="circlee">
                         </div>
                         <p style=" font-size: large;
-                                                       margin-top: -35px;
-                                                       margin-left: -165px;">SHOOT MESSAGE</p>
+                            margin-top: -35px;
+                          margin-left: -165px;">SHOOT MESSAGE</p>
 
                     </div>
                 </div>
             </div>
         </section>
-
-
-
-
-        <footer>
+  <footer>
         </footer>
 </body>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
